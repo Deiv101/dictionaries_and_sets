@@ -1,0 +1,1 @@
+country_codes = {'Finland': 'fi', 'South Africa': 'za', 'Nepal': 'np'}
