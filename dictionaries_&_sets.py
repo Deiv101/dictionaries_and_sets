@@ -15,6 +15,7 @@ details = {'Firstname': 'fname', "Lastname": 'lname'}
 """The following dictionary maps month-name strings to int values representing the numbers of days in the corresponding month. Note that multiple keys can have the 
 same value:"""
 
+days_per_month = {'January': 31, 'February': 28, 'March': 31}
 
 ####################################################################################################################################################################
 
