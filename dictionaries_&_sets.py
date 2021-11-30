@@ -27,6 +27,7 @@ for month_name in months.keys():
     print(month_name, end=' ')
 
 for month_number in months.values():
+    print(month_number, end=' ')
 
 
 ####################################################################################################################################################################
