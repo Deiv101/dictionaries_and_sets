@@ -25,7 +25,8 @@ months = {'January': 1, 'February': 2, 'March': 3}
 
 for month_name in months.keys():
     print(month_name, end=' ')
-    
+
+for month_number in months.values():
 
 
 ####################################################################################################################################################################
