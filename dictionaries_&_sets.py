@@ -34,4 +34,6 @@ names = {'Amo': 1, 'Lilly': 2, 'Deiv': 3, 'Nolly': 4}
 for name_key in names.keys():
     print(name_num)
 
+for name_value in names.values():
+    print(name_value)
 ####################################################################################################################################################################
