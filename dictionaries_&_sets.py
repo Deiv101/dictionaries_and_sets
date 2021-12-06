@@ -40,4 +40,6 @@ for name_value in names.values():
 # Mini-Project
 # Dictionary of Student Grades
 
-""""""
+"""The following script represents an instructor’s grade book as a dictionary that maps each
+student’s name (a string) to a list of integers containing that student’s grades on three
+exams. In each iteration of the loop that displays the data"""
