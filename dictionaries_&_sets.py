@@ -42,4 +42,5 @@ for name_value in names.values():
 
 """The following script represents an instructor’s grade book as a dictionary that maps each
 student’s name (a string) to a list of integers containing that student’s grades on three
-exams. In each iteration of the loop that displays the data"""
+exams. In each iteration of the loop that displays the data, we unpack a key–
+value pair into the variables name and grades containing one student’s name and the corresponding list of three grades."""
