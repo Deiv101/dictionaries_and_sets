@@ -45,3 +45,4 @@ student’s name (a string) to a list of integers containing that student’s gr
 exams. In each iteration of the loop that displays the data, we unpack a key–
 value pair into the variables name and grades containing one student’s name and the corresponding list of three grades."""
 # fig06_01.py
+"""Using a dictionary to represent an instructor's grade book."""
