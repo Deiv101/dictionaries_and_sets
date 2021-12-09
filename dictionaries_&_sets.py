@@ -53,3 +53,4 @@ grade_book = {'Susan': [92, 85, 100],
               }
 all_grades_total = 0
 all_grades_count = 0
+
