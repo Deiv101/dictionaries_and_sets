@@ -55,4 +55,4 @@ all_grades_total = 0
 all_grades_count = 0
 
 for name, grades in grade_book.items():
-    
+    total = sum(grades)
