@@ -59,3 +59,5 @@ for name, grades in grade_book.items():
     print(f'Average for {name} is {total/len(grades):.2f}')
     all_grades_total += total
     all_grades_count += len(grades)
+
+    
