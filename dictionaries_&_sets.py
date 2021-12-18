@@ -60,4 +60,3 @@ for name, grades in grade_book.items():
     all_grades_total += total
     all_grades_count += len(grades)
 
-    
